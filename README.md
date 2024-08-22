@@ -40,10 +40,11 @@ Once the program is running, follow these simple steps:
 Select an Operation:
 You’ll be prompted to choose an operation from the following options:
 
-> addition
-> subtraction
-> multiplication
-> division
+>addition
+>subtraction
+>multiplication
+>division
+
 Type the operation you want to perform (e.g., addition) and press Enter.
 
 Enter Values:
