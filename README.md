@@ -1,15 +1,57 @@
-# Make sure you have python v3 installed on your PC
-# Check if Python is installed by opening the Terminal and enter 'python --version' you should see your python version or go to the website to download it 
 
-#Run the programme 
- 1: With vsCode : Open the project repo in vsCode, Open the terminal and run this commande "python python-math.py"
- 2: With Terminal : Navigate to the project repo with your terminal, make sure your are in the project repo and run thi commande "python python-math.py"
+Python Math Operations Program
+Welcome to the Python Math Operations program! This simple yet powerful tool lets you perform basic arithmetic operations like addition, subtraction, multiplication, and division directly from your terminal.
 
- #How to ue the programme 
- Once the programme is running you will be prompted to select an option : 'addition,multiplication,subtraction,devision'
- Select an option by entering the type of operation you would like to do (e.g. addition)
- You will be prompted to enter the first value and the second value 
- An error will be occured if one of the values is not an type of "int"
+Prerequisites
+Ensure Python 3 is Installed
+Before you get started, make sure you have Python 3 installed on your system. To check if Python is installed:
 
- #Exit the programme 
- Enter "exit" to exit the programme
+Open Terminal:
+On your system, open the terminal or command prompt.
+
+Check Python Version:
+Type python --version and press Enter.
+You should see something like Python 3.x.x indicating Python 3 is installed.
+
+If Python isn’t installed, download it from the official Python website.
+
+
+How to Run the Program
+Option 1: Using Visual Studio Code (VS Code)
+Open Project in VS Code:
+Launch VS Code and open the project directory.
+
+Run the Program:
+Open the terminal within VS Code and type the following command: python python-math.py 
+
+
+Option 2: Using Terminal or Command Prompt
+Navigate to Project Directory:
+Open your terminal or command prompt and navigate to the directory where the project is located.
+
+Run the Program:
+Once in the project directory, run the following command: python python-math.py
+
+How to Use the Program
+Once the program is running, follow these simple steps:
+
+Select an Operation:
+You’ll be prompted to choose an operation from the following options:
+
+addition
+subtraction
+multiplication
+division
+Type the operation you want to perform (e.g., addition) and press Enter.
+
+Enter Values:
+
+Enter the first value when prompted.
+Enter the second value when prompted.
+Note: Ensure that both inputs are numeric. The program will notify you if non-numeric input is detected.
+
+View the Result:
+The program will display the result of the operation based on the values you provided.
+
+Exiting the Program
+To exit the program at any time, simply type exit when prompted to choose an operation. The program will gracefully close with a friendly goodbye message
